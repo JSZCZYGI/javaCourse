@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="First suite">
+    <test name="My test!">
+        <classes>
+            <class name="com.capgemini.otherTests.TestngPlayground"/>
+            <class name="com.capgemini.otherTests.SeleniumTest"/>
+        </classes>
+    </test>
+</suite>
